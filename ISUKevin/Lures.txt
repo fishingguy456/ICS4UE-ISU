@@ -1,0 +1,15 @@
+strike king,KVD,shad,1.5,hardbait,6.99,992831
+zman,chatterbait,bluegill,4.0,skirted,8.5,339028
+booyah,covert,chartreuse,8.0,skirted,9.99,109254
+yum,dinger,pumpkin,5.0,plastic,4.0,109283
+biospawn,exoswim,blue,5.0,plastic,6.99,339332
+rapala,husky jerk,trout,8.0,hardbait,9.0,399333
+rapala,jigging rap,perch,3.0,hard bait,4.99,999222
+livetarget,koppers,leopard frog,4.0,hardbait,8.0,209314
+triggerx,mustache,red,2.0,plastic,3.29,123879
+booyah,pad crasher,black,6.0,topwater,6.0,322202
+booyah,pad crasher,white,5.0,topwater,6.0,390822
+booyah,pond magic,shiner,5.0,skirted,6.0,281933
+rapala,ripping rap,silver,4.0,hardbait,7.0,555473
+thundermist,stingnose,silver,8.0,blade,6.0,999302
+blue fox,vibrax,blue,4.0,blade,3.99,883723

@@ -1,0 +1,16 @@
+berkley,shock,medium,medium,spinning,49.99,309277
+daiwa,fuego,slow,heavy,spinning,69.99,394820
+daiwa,spinmatic,extra fast,ultra light,spinning,90.0,298350
+daiwa,steez,fast,medium,spinning,100.0,1234
+denali,attax,fast,medium,spinning,120.0,290381
+duckett,pro,medium,heavy,spinning,180.0,209348
+favorite,lunkers defender,slow,heavy,casting,130.0,444902
+favorite,rigged,medium,medium heavy,casting,125.0,298312
+favorite,white bird,fast,medium light,casting,69.99,234897
+fenwick,elite tech,fast,medium light,spinning,149.99,500234
+fenwick,hmx,fast,medium,spinning,79.99,093428
+savage gear,battletek,medium,medium heavy,casting,165.0,234908
+shakespeare,ugly stik,fast,medium heavy,spinning,80.0,993833
+sixth sense,divine,fast,medium,casting,200.0,111920
+st croix,avid,fast,medium,spinning,210.0,502983
+zin,zarf,gliem,2,big,25.0,1234

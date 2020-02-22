@@ -1,0 +1,15 @@
+duckett,320,left,6.4,casting,190.0,677622
+quantum,accurist,left,7.0,casting,100.0,392888
+lews,american hero,right,6.8,casting,69.99,440512
+abu garcia,cardinal,left,5.5,spinning,89.99,949033
+okuma,cerros,right,6.6,casting,105.0,239230
+13 fishing,conceptA,right,7.2,casting,175.0,334844
+lews,custom speed spin,left,7.0,spinning,100.0,390382
+lews,laser xl speed,right,5.4,spinning,24.99,660492
+lews,mach smash,left,5.4,spinning,50.0,123345
+pflueger,president,left,7.7,casting,59.99,404055
+abu garcia,pro max,left,8.6,casting,200.0,124893
+abu garcia,revo,left,6.6,casting,250.0,548733
+abu garcia,revo,left,7.7,casting,200.0,299922
+shimano,slx 150,right,7.4,casting,189.99,100922
+shimano,stradic,left,5.8,spinning,95.0,129083 

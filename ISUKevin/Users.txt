@@ -1,0 +1,17 @@
+dabber,dabber@gmail.com
+william,william@gmail.com
+mr payne,payne@yrdsb.ca
+coder,coding@gmail.com
+steve,steve@nash.com
+klaw,kawhi@fmvp.ca
+ma fuzzy,serge@ibaka.chef
+stanimal,stanley@raps.com
+pg13,fisherman@ball.clips
+physics,physics@science.com
+chemistry,chem@science.com
+react,react@facebook.com
+angular,angular@gmail.com
+java,java@oracle.com
+jmeter,jmeter@apache.com
+customer,myemail@email.net
+custamer,youremail@gmail.com
